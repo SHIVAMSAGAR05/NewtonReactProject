@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+    display: inline-block;
+    flex-direction: row;
+}
+.container {
+  height: 400px;
+  width: 380px;
+  border: 1px solid grey;
+  padding: 8px;
+  border-radius: 10px;
+  background-color: rgb(214, 211, 211);
+  /* display: inline-block; */
+  max-width: fit-content;
+}
+img {
+  height: 300px;
+  width: 310px;
+  border: none;
+  border-radius: 25px;
+}
+h3 {
+  padding-left: 11px;
+  padding-top: 5px;
+}
+#btn {
+  font-size: 16px;
+  width: 315px;
+  height: 25px;
+  border-radius: 5px;
+  color: rgb(226, 210, 210);
+  font-weight: bold;
+  background-color: rgb(36, 34, 34);
+  border: none;
+  cursor: pointer;
+
+}
+
+.card_category {
+  font-weight: bold;
+}
+
+.netflixHeading{
+  text-align: center;
+  background-color: rgb(218, 215, 213);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 10px;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: rgb(152, 199, 183);
+}
