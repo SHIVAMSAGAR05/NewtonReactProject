@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewtonReactProject/static/css/main.761cb284.css",
+    "main.js": "/NewtonReactProject/static/js/main.63a3aecb.js",
+    "index.html": "/NewtonReactProject/index.html",
+    "main.761cb284.css.map": "/NewtonReactProject/static/css/main.761cb284.css.map",
+    "main.63a3aecb.js.map": "/NewtonReactProject/static/js/main.63a3aecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761cb284.css",
+    "static/js/main.63a3aecb.js"
+  ]
+}
